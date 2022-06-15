@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94711421243']
-global.premium = ['94711421243']
-global.ownernomer = '94711421243'
-global.ownername = 'Dark Alpha'
-global.botname = 'Bixby MD'
+global.owner = ['94761968300']
+global.premium = ['94761968300']
+global.ownernomer = '94761968300'
+global.ownername = 'Dark rip'
+global.botname = 'rip bix'
 global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
-global.ig = 'https://github.com/darkalphaxteam'
+global.ig = 'https://github.com/😓'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/darkalphaxteam/Queen-Bixby-MD'
-global.myweb = 'https://youtube.com/channel/UCvpyOCBCaBSCdv4QolnO0WQ'
-global.packname = 'Queen Bixby MD'
-global.author = 'Thinura '
+global.sc = 'https://github.com/😂'
+global.myweb = 'https://youtube.com/channel/😋😋'
+global.packname = 'rip bot'
+global.author = 'rip'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🚢'
